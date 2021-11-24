@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/levi-manoel/static/css/main.2df606c1.chunk.css",
-    "main.js": "/levi-manoel/static/js/main.36067aab.chunk.js",
-    "main.js.map": "/levi-manoel/static/js/main.36067aab.chunk.js.map",
+    "main.css": "/levi-manoel/static/css/main.036dae64.chunk.css",
+    "main.js": "/levi-manoel/static/js/main.d832f426.chunk.js",
+    "main.js.map": "/levi-manoel/static/js/main.d832f426.chunk.js.map",
     "runtime-main.js": "/levi-manoel/static/js/runtime-main.db32cde0.js",
     "runtime-main.js.map": "/levi-manoel/static/js/runtime-main.db32cde0.js.map",
     "static/js/2.0a1f94ff.chunk.js": "/levi-manoel/static/js/2.0a1f94ff.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.098b386a.chunk.js": "/levi-manoel/static/js/3.098b386a.chunk.js",
     "static/js/3.098b386a.chunk.js.map": "/levi-manoel/static/js/3.098b386a.chunk.js.map",
     "index.html": "/levi-manoel/index.html",
-    "static/css/main.2df606c1.chunk.css.map": "/levi-manoel/static/css/main.2df606c1.chunk.css.map",
+    "static/css/main.036dae64.chunk.css.map": "/levi-manoel/static/css/main.036dae64.chunk.css.map",
     "static/js/2.0a1f94ff.chunk.js.LICENSE.txt": "/levi-manoel/static/js/2.0a1f94ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.db32cde0.js",
     "static/js/2.0a1f94ff.chunk.js",
-    "static/css/main.2df606c1.chunk.css",
-    "static/js/main.36067aab.chunk.js"
+    "static/css/main.036dae64.chunk.css",
+    "static/js/main.d832f426.chunk.js"
   ]
 }
