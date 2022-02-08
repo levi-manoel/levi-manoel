@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/levi-manoel/static/css/main.814459b5.chunk.css",
-    "main.js": "/levi-manoel/static/js/main.05e6d074.chunk.js",
-    "main.js.map": "/levi-manoel/static/js/main.05e6d074.chunk.js.map",
+    "main.js": "/levi-manoel/static/js/main.03b71a94.chunk.js",
+    "main.js.map": "/levi-manoel/static/js/main.03b71a94.chunk.js.map",
     "runtime-main.js": "/levi-manoel/static/js/runtime-main.22aed67b.js",
     "runtime-main.js.map": "/levi-manoel/static/js/runtime-main.22aed67b.js.map",
     "static/js/2.ea746ceb.chunk.js": "/levi-manoel/static/js/2.ea746ceb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.22aed67b.js",
     "static/js/2.ea746ceb.chunk.js",
     "static/css/main.814459b5.chunk.css",
-    "static/js/main.05e6d074.chunk.js"
+    "static/js/main.03b71a94.chunk.js"
   ]
 }
