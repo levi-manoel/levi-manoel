@@ -23,59 +23,53 @@
 <div style="display: inline_block">
 
   <div style="display: inline_block">
-  <img align="center" alt="icon NPM" height="40" width="50" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/npm.svg">
   NPM
   </div>
   <div style="display: inline_block">
-  <img align="center" alt="icon GIT" heigth="40" width="50" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/git.svg" />
   GIT
   </div>
   <div style="display: inline_block">
-  <img align="center" alt="icon GITHUB" heigth="40" width="50" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/github_alt.svg" />
-  GITHUB
+  Github
   </div>
   <div style="display: inline_block">
-  <img align="center" alt="icon JEST" heigth="40" width="50" src="https://i.imgur.com/gCCl89V.png" />
-  JEST
+  Jest
   </div>
   <div style="display: inline_block">
-  <img align="center" alt="icon DOCKER" heigth="40" width="50" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/docker.svg" />
-  DOCKER
+  Docker
+  </div>
+  <div style="display: inline_block">
+  TypeScript
   </div>
 
   <div>
     <div>
       <h2>Front-End</h2>
       <div style="display: inline_block">
-        <img align="center" alt="icon HTML" height="40" width="50" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/html5.svg">
         HTML5
       </div>
       <div style="display: inline_block">
-        <img align="center" alt="icon CSS" height="40" width="50" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/css3.svg">
         CSS3
       </div>
       <div style="display: inline_block">
-        <img align="center" alt="icon JS" height="40" width="50" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/js_badge.svg">
-        JAVASCRIPT
+        JavaScript
       </div>
       <div style="display: inline_block">
-        <img align="center" alt="icon REACT" height="50" width="50" src="https://i.imgur.com/rxuac8r.png">
-        REACT
+        React
       </div>
       <div style="display: inline_block">
-        <img align="center" alt="icon REDUX" height="50" width="50" src="https://i.imgur.com/qoWgBNe.png">
-        REDUX
+        Redux
       </div>
     </div>
     <div>
       <h2>Back-End</h2>
       <div style="display: inline_block">
-        <img align="center" alt="icon HTML" height="45" width="55" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/mysql.svg">
-        MYSQL
+        MySQL
       </div>
       <div style="display: inline_block">
-        <img align="center" alt="icon HTML" height="45" width="55" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/nodejs.svg">
-        NODEJS
+        NodeJs
+      </div>
+      <div style="display: inline_block">
+        Sequelize ORM
       </div>
     </div>
   </div>
