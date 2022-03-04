@@ -16,7 +16,7 @@
 - - -
 
  <div>
-  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=levi-manoel&show_icons=true&include_all_commits=true&theme=dark&border_radius=0"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=levi-manoel&show_icons=true&include_all_commits=true&count_private=true&theme=dark&border_radius=0"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi-manoel&layout=compact&langs_count=7&theme=dark&border_radius=0"/>
 </div>
   
