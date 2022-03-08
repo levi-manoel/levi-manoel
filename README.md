@@ -22,9 +22,6 @@
 <div style="display: inline_block">
 
   <div style="display: inline_block">
-  NPM
-  </div>
-  <div style="display: inline_block">
   GIT
   </div>
   <div style="display: inline_block">
@@ -36,9 +33,7 @@
   <div style="display: inline_block">
   Docker
   </div>
-  <div style="display: inline_block">
-  TypeScript
-  </div>
+  
 
   <div>
     <div>
@@ -70,6 +65,9 @@
       <div style="display: inline_block">
         Sequelize ORM
       </div>
+     <div style="display: inline_block">
+      TypeScript
+     </div>
     </div>
   </div>
 
