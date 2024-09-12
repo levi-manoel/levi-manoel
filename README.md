@@ -7,7 +7,7 @@ A fullstack developer from Brazil
 
 - 🔭 I’m currently working on [iRancho](https://irancho.com.br)
 
-- 👨‍💻 All of my projects are available at [levi-manoel.vercel.app](https://levi-manoel.vercel.app)
+- 👨‍💻 All of my projects are available at [levi-manoel.github.io](https://levi-manoel.github.io)
 
 - 📫 How to reach me **levimanoel.deob@gmail.com**
 
